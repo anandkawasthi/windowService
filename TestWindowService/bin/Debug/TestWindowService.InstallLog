@@ -1,0 +1,867 @@
+﻿Installing assembly 'C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = C:\Sandbox\WindowServices\TestWindowService\TestWindowService\bin\Debug\TestWindowService.exe
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Creating EventLog source Test Window Service in log Application...
+Rolling back assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Restoring event log to previous state for source Test Window Service.
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Attempt to stop service Test Window Service.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Creating EventLog source Test Window Service in log Application...
+Rolling back assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Restoring event log to previous state for source Test Window Service.
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Creating EventLog source Test Window Service in log Application...
+Rolling back assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Restoring event log to previous state for source Test Window Service.
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Attempt to stop service Test Window Service.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Creating EventLog source Test Window Service in log Application...
+Rolling back assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Restoring event log to previous state for source Test Window Service.
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Removing EventLog source Test Window Service.
+Service Test Window Service is being removed from the system...
+Service Test Window Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Service Test Window Service has been successfully installed.
+Creating EventLog source Test Window Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Creating EventLog source Test Window Service in log Application...
+Rolling back assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Restoring event log to previous state for source Test Window Service.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Installing service Test Window Service...
+Creating EventLog source Test Window Service in log Application...
+Rolling back assembly 'D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\TestWindowService.exe
+Restoring event log to previous state for source Test Window Service.

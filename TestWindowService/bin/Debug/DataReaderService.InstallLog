@@ -1,0 +1,63 @@
+﻿Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\DataReaderService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\DataReaderService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\DataReaderService.exe
+Installing service Data Reader Service...
+Service Data Reader Service has been successfully installed.
+Creating EventLog source Data Reader Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\DataReaderService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\DataReaderService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\DataReaderService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\DataReaderService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\DataReaderService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\DataReaderService.exe
+Removing EventLog source Data Reader Service.
+Service Data Reader Service is being removed from the system...
+Service Data Reader Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\DataReaderService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\DataReaderService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\DataReaderService.exe
+Installing service Data Reader Service...
+Service Data Reader Service has been successfully installed.
+Creating EventLog source Data Reader Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\DataReaderService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\DataReaderService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\DataReaderService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\DataReaderService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\DataReaderService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\DataReaderService.exe
+Removing EventLog source Data Reader Service.
+Service Data Reader Service is being removed from the system...
+Service Data Reader Service was successfully removed from the system.
+Installing assembly 'D:\MyProject\TestWindowService\bin\Debug\DataReaderService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\DataReaderService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\DataReaderService.exe
+Installing service Data Reader Service...
+Service Data Reader Service has been successfully installed.
+Creating EventLog source Data Reader Service in log Application...
+Committing assembly 'D:\MyProject\TestWindowService\bin\Debug\DataReaderService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\DataReaderService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\DataReaderService.exe
+Uninstalling assembly 'D:\MyProject\TestWindowService\bin\Debug\DataReaderService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MyProject\TestWindowService\bin\Debug\DataReaderService.InstallLog
+   assemblypath = D:\MyProject\TestWindowService\bin\Debug\DataReaderService.exe
+Removing EventLog source Data Reader Service.
+Service Data Reader Service is being removed from the system...
+Service Data Reader Service was successfully removed from the system.

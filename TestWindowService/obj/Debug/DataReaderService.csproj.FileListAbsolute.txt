@@ -1,0 +1,17 @@
+D:\MyProject\TestWindowService\bin\Debug\DataReaderService.exe.config
+D:\MyProject\TestWindowService\bin\Debug\DataReaderService.exe
+D:\MyProject\TestWindowService\bin\Debug\DataReaderService.pdb
+D:\MyProject\TestWindowService\bin\Debug\Common.dll
+D:\MyProject\TestWindowService\bin\Debug\FileReader.dll
+D:\MyProject\TestWindowService\bin\Debug\fileWriter.dll
+D:\MyProject\TestWindowService\bin\Debug\DocumentFormat.OpenXml.dll
+D:\MyProject\TestWindowService\bin\Debug\Common.pdb
+D:\MyProject\TestWindowService\bin\Debug\FileReader.pdb
+D:\MyProject\TestWindowService\bin\Debug\fileWriter.pdb
+D:\MyProject\TestWindowService\bin\Debug\DocumentFormat.OpenXml.xml
+D:\MyProject\TestWindowService\obj\Debug\DataReaderService.csprojAssemblyReference.cache
+D:\MyProject\TestWindowService\obj\Debug\TestWindowService.ProjectInstaller.resources
+D:\MyProject\TestWindowService\obj\Debug\DataReaderService.csproj.GenerateResource.cache
+D:\MyProject\TestWindowService\obj\Debug\DataReaderService.csproj.CopyComplete
+D:\MyProject\TestWindowService\obj\Debug\DataReaderService.exe
+D:\MyProject\TestWindowService\obj\Debug\DataReaderService.pdb

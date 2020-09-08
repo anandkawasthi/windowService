@@ -1,0 +1,9 @@
+D:\MyProject\TextReaderService\Common\bin\Debug\Common.dll.config
+D:\MyProject\TextReaderService\Common\bin\Debug\Common.dll
+D:\MyProject\TextReaderService\Common\bin\Debug\Common.pdb
+D:\MyProject\TextReaderService\Common\obj\Debug\Common.dll
+D:\MyProject\TextReaderService\Common\obj\Debug\Common.pdb
+D:\MyProject\TestWindowService\Common\bin\Debug\Common.dll
+D:\MyProject\TestWindowService\Common\bin\Debug\Common.pdb
+D:\MyProject\TestWindowService\Common\obj\Debug\Common.dll
+D:\MyProject\TestWindowService\Common\obj\Debug\Common.pdb

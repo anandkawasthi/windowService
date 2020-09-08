@@ -1,0 +1,1397 @@
+19/11/2013 5:50:25 p.m.: Test window service started
+19/11/2013 5:50:55 p.m.: Timer ticked and some job has been done successfully
+19/11/2013 5:51:25 p.m.: Timer ticked and some job has been done successfully
+19/11/2013 5:51:55 p.m.: Timer ticked and some job has been done successfully
+19/11/2013 5:52:25 p.m.: Timer ticked and some job has been done successfully
+19/11/2013 5:52:55 p.m.: Timer ticked and some job has been done successfully
+19/11/2013 5:53:25 p.m.: Timer ticked and some job has been done successfully
+19/11/2013 5:53:55 p.m.: Timer ticked and some job has been done successfully
+19/11/2013 5:54:25 p.m.: Timer ticked and some job has been done successfully
+19/11/2013 5:54:55 p.m.: Timer ticked and some job has been done successfully
+19/11/2013 5:55:25 p.m.: Timer ticked and some job has been done successfully
+19/11/2013 5:55:55 p.m.: Timer ticked and some job has been done successfully
+19/11/2013 5:56:25 p.m.: Timer ticked and some job has been done successfully
+19/11/2013 5:56:55 p.m.: Timer ticked and some job has been done successfully
+19/11/2013 5:57:25 p.m.: Timer ticked and some job has been done successfully
+19/11/2013 5:57:55 p.m.: Timer ticked and some job has been done successfully
+19/11/2013 5:58:25 p.m.: Timer ticked and some job has been done successfully
+19/11/2013 5:58:55 p.m.: Timer ticked and some job has been done successfully
+19/11/2013 5:59:15 p.m.: Test window service stopped
+4/27/2020 2:47:10 PM: Test window service started
+4/27/2020 2:47:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 2:48:15 PM: Timer ticked and some job has been done successfully
+4/27/2020 2:49:04 PM: Timer ticked and some job has been done successfully
+4/27/2020 2:49:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 2:49:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 2:50:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 2:50:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 2:51:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 2:51:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 2:52:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 2:52:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 2:53:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 2:53:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 2:54:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 2:54:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 2:55:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 2:55:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 2:56:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 2:56:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 2:57:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 2:57:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 2:58:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 2:58:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 2:59:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 2:59:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:00:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:00:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:01:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:01:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:02:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:02:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:03:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:03:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:04:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:04:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:05:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:05:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:06:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:06:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:07:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:07:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:08:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:08:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:09:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:09:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:10:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:10:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:11:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:11:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:12:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:12:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:13:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:13:40 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:14:10 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:14:33 PM: Test window service stopped
+4/27/2020 3:23:28 PM: Test window service started
+4/27/2020 3:24:05 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:24:13 PM: Test window service stopped
+4/27/2020 3:29:16 PM: Test window service started
+4/27/2020 3:29:46 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:30:44 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:30:56 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:31:16 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:31:46 PM: Timer ticked and some job has been done successfully
+4/27/2020 3:31:57 PM: Test window service stopped
+4/27/2020 8:38:55 PM: service started
+4/27/2020 8:44:55 PM: Test window service stopped
+4/27/2020 8:45:37 PM: service started
+4/27/2020 8:46:21 PM: Test window service stopped
+4/27/2020 8:47:02 PM: service started
+4/27/2020 8:50:21 PM: Start Reading Text FileD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 8:50:23 PM: FirstDraft completed D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 8:50:26 PM: reading parent eob dataD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 8:50:28 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 8:50:28 PM: parsing second draftD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 8:50:30 PM: completed second draftD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 8:50:35 PM: Prepare list of object for exportD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 8:50:37 PM: Export startedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 8:50:45 PM: Export completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:00:09 PM: Test window service stopped
+4/27/2020 9:21:49 PM: service started
+4/27/2020 9:22:00 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:22:00 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:22:00 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:22:00 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:22:00 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:22:00 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:22:00 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:22:00 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:22:05 PM: Export completed- D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:22:05 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:05 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:05 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:05 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:05 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:05 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:05 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:05 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:10 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:10 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:10 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:10 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:10 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:10 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:10 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:10 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:21 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:21 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:21 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:21 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:21 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:21 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:21 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:21 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:31 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:31 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:31 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:31 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:31 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:31 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:31 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:31 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:42 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:42 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:42 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:42 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:42 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:42 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:42 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:42 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:53 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:53 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:53 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:53 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:53 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:53 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:53 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:22:53 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:03 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:03 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:03 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:03 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:03 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:03 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:03 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:03 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:14 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:14 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:14 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:14 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:14 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:14 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:14 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:14 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:25 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:25 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:25 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:25 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:25 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:25 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:25 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:25 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:35 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:35 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:35 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:35 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:35 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:35 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:35 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:35 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:46 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:46 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:46 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:46 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:46 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:46 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:46 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:46 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:57 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:57 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:57 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:57 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:57 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:57 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:57 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:23:57 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:08 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:08 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:08 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:08 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:08 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:08 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:08 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:08 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:20 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:20 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:20 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:20 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:20 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:20 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:20 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:20 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:31 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:31 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:31 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:31 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:31 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:31 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:31 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:31 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:42 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:42 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:42 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:42 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:42 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:42 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:42 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:42 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:53 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:53 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:53 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:53 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:53 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:53 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:53 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:24:53 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:25:03 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:25:03 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:25:03 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:25:03 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:25:03 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:25:03 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:25:03 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:25:03 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 9:25:14 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:25:14 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:25:14 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:25:14 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:25:14 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:25:14 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:25:14 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:25:14 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:25:25 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:25:25 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:25:25 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:25:25 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:25:25 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:25:25 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:25:25 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:25:25 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:25:35 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:25:35 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:25:35 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:25:35 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:25:35 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:25:35 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:25:35 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:25:35 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:25:41 PM: Test window service stopped
+4/27/2020 9:26:44 PM: service started
+4/27/2020 9:30:00 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:30:00 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:30:00 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:30:00 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:30:00 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:30:00 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:30:00 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:30:00 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:33:15 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:33:15 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:33:15 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:33:15 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:33:15 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:33:15 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:33:15 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:33:15 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:33:45 PM: Test window service stopped
+4/27/2020 9:35:16 PM: service started
+4/27/2020 9:36:00 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:36:00 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:36:00 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:36:00 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:36:00 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:36:00 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:36:00 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:36:00 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:36:43 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:36:43 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:36:43 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:36:43 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:36:43 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:36:43 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:36:43 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:36:43 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:37:27 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:37:27 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:37:27 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:37:27 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:37:27 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:37:27 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:37:27 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:37:27 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:38:11 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:38:11 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:38:11 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:38:11 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:38:11 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:38:11 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:38:11 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:38:11 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:38:54 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:38:54 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:38:54 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:38:54 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:38:54 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:38:54 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:38:54 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:38:54 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:39:34 PM: Test window service stopped
+4/27/2020 9:40:05 PM: service started
+4/27/2020 9:46:17 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:46:17 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:46:17 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:46:17 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:46:17 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:46:17 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:46:17 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:46:17 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:47:46 PM: Test window service stopped
+4/27/2020 9:52:14 PM: service started
+4/27/2020 9:55:00 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:55:00 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:55:00 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:55:00 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:55:00 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:55:00 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:55:00 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:55:00 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB - Copy.txt
+4/27/2020 9:57:38 PM: Test window service stopped
+4/27/2020 9:58:15 PM: service started
+4/27/2020 10:00:09 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:00:10 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:00:11 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:00:13 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:00:13 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:00:14 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:00:16 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:00:19 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:02:30 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:02:30 PM: Test window service stopped
+4/27/2020 10:09:18 PM: service started
+4/27/2020 10:10:41 PM: Test window service stopped
+4/27/2020 10:11:36 PM: service started
+4/27/2020 10:12:00 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:12:00 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:12:00 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:12:00 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:12:00 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:12:00 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:12:00 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:12:00 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:12:23 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:12:23 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:12:23 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:12:23 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:12:23 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:12:23 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:12:23 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:12:23 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:12:47 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:12:47 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:12:47 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:12:47 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:12:47 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:12:47 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:12:47 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:12:47 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:13:11 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:13:11 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:13:11 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:13:11 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:13:11 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:13:11 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:13:11 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:13:11 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:13:35 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:13:35 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:13:35 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:13:35 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:13:35 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:13:35 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:13:35 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:13:35 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:13:59 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:13:59 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:13:59 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:13:59 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:13:59 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:13:59 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:13:59 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:13:59 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:14:23 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:14:23 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:14:23 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:14:23 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:14:23 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:14:23 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:14:23 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:14:23 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:14:47 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:14:47 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:14:47 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:14:47 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:14:47 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:14:47 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:14:47 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:14:47 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:15:11 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:15:11 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:15:11 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:15:11 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:15:11 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:15:11 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:15:11 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:15:11 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:15:35 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:15:35 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:15:35 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:15:35 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:15:35 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:15:35 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:15:35 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:15:35 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:15:59 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:15:59 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:15:59 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:15:59 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:15:59 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:15:59 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:15:59 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:15:59 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:16:22 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:16:22 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:16:22 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:16:22 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:16:22 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:16:22 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:16:22 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:16:22 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:16:46 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:16:46 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:16:46 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:16:46 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:16:46 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:16:46 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:16:46 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:16:46 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:17:10 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:17:10 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:17:10 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:17:10 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:17:10 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:17:10 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:17:10 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:17:10 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:17:34 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:17:34 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:17:34 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:17:34 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:17:34 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:17:34 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:17:34 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:17:34 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:17:58 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:17:58 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:17:58 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:17:58 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:17:58 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:17:58 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:17:58 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:17:58 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:18:22 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:18:22 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:18:22 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:18:22 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:18:22 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:18:22 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:18:22 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:18:22 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:18:46 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:18:46 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:18:46 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:18:46 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:18:46 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:18:46 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:18:46 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:18:46 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:19:10 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:19:10 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:19:10 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:19:10 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:19:10 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:19:10 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:19:10 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:19:10 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:19:34 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:19:34 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:19:34 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:19:34 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:19:34 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:19:34 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:19:34 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:19:34 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:19:58 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:19:58 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:19:58 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:19:58 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:19:58 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:19:58 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:19:58 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:19:58 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:22:22 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:22:22 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:22:22 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:22:22 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:22:22 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:22:22 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:22:22 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:22:22 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:22:46 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:22:46 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:22:46 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:22:46 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:22:46 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:22:46 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:22:46 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:22:46 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:23:10 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:23:10 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:23:10 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:23:10 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:23:10 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:23:10 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:23:10 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:23:10 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:23:34 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:23:34 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:23:34 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:23:34 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:23:34 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:23:34 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:23:34 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:23:34 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:23:57 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:23:57 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:23:57 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:23:57 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:23:57 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:23:57 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:23:57 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:23:57 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:24:22 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:24:22 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:24:22 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:24:22 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:24:22 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:24:22 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:24:22 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:24:22 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:24:47 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:24:47 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:24:47 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:24:47 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:24:47 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:24:47 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:24:47 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:24:47 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:25:12 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:25:12 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:25:12 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:25:12 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:25:12 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:25:12 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:25:12 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:25:12 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:32:56 PM: service started
+4/27/2020 10:34:07 PM: Test window service stopped
+4/27/2020 10:34:51 PM: service started
+4/27/2020 10:36:00 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:36:00 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:36:00 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:36:00 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:36:00 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:36:00 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:36:00 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:36:00 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:36:20 PM: Export completed- D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:36:32 PM: Test window service stopped
+4/27/2020 10:39:50 PM: service started
+4/27/2020 10:45:00 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:45:00 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:45:00 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:45:00 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:45:00 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:45:00 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:45:00 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:45:00 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:45:05 PM: Export completed- D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 10:45:05 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB1.txt
+4/27/2020 10:45:05 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB1.txt
+4/27/2020 10:45:05 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB1.txt
+4/27/2020 10:45:05 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB1.txt
+4/27/2020 10:45:05 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB1.txt
+4/27/2020 10:45:05 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB1.txt
+4/27/2020 10:45:05 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB1.txt
+4/27/2020 10:45:05 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB1.txt
+4/27/2020 10:45:08 PM: Export completed- D:/MyProject/SourceFiles/20191231-EOB1.txt
+4/27/2020 10:45:19 PM: Test window service stopped
+4/27/2020 11:44:27 PM: service started
+4/27/2020 11:45:00 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 11:45:00 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 11:45:00 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 11:45:00 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 11:45:00 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 11:45:00 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 11:45:00 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 11:45:00 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 11:45:04 PM: Export completed- D:/MyProject/SourceFiles/20191231-EOB.txt
+4/27/2020 11:45:04 PM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB1.txt
+4/27/2020 11:45:04 PM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB1.txt
+4/27/2020 11:45:04 PM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB1.txt
+4/27/2020 11:45:04 PM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB1.txt
+4/27/2020 11:45:04 PM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB1.txt
+4/27/2020 11:45:04 PM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB1.txt
+4/27/2020 11:45:04 PM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB1.txt
+4/27/2020 11:45:04 PM: Export started -D:/MyProject/SourceFiles/20191231-EOB1.txt
+4/27/2020 11:45:07 PM: Export completed- D:/MyProject/SourceFiles/20191231-EOB1.txt
+4/28/2020 12:01:47 AM: File reading and exporting is completed
+4/28/2020 12:09:51 AM: Test window service stopped
+4/28/2020 12:09:56 AM: service started
+4/28/2020 12:11:05 AM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB.txt
+4/28/2020 12:11:05 AM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/28/2020 12:11:06 AM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/28/2020 12:11:06 AM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB.txt
+4/28/2020 12:11:06 AM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/28/2020 12:11:06 AM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/28/2020 12:11:06 AM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/28/2020 12:11:06 AM: Export started -D:/MyProject/SourceFiles/20191231-EOB.txt
+4/28/2020 12:11:12 AM: Export completed- D:/MyProject/SourceFiles/20191231-EOB.txt
+4/28/2020 12:11:12 AM: Start Reading Text File-D:/MyProject/SourceFiles/20191231-EOB1.txt
+4/28/2020 12:11:12 AM: FirstDraft completed -D:/MyProject/SourceFiles/20191231-EOB1.txt
+4/28/2020 12:11:12 AM: reading parent eob data -D:/MyProject/SourceFiles/20191231-EOB1.txt
+4/28/2020 12:11:12 AM: parent eob data completedD:/MyProject/SourceFiles/20191231-EOB1.txt
+4/28/2020 12:11:12 AM: parsing second draft -D:/MyProject/SourceFiles/20191231-EOB1.txt
+4/28/2020 12:11:12 AM: completed second draft -D:/MyProject/SourceFiles/20191231-EOB1.txt
+4/28/2020 12:11:12 AM: Prepare list of object for export -D:/MyProject/SourceFiles/20191231-EOB1.txt
+4/28/2020 12:11:12 AM: Export started -D:/MyProject/SourceFiles/20191231-EOB1.txt
+4/28/2020 12:11:19 AM: Export completed- D:/MyProject/SourceFiles/20191231-EOB1.txt
+4/28/2020 10:19:04 AM: File reading and exporting is completed
+4/28/2020 8:31:32 PM: Test window service stopped
+4/28/2020 8:41:43 PM: service started
+4/28/2020 8:43:00 PM: Start Reading Text File-20191231-EOB.txt
+4/28/2020 8:43:00 PM: FirstDraft completed -20191231-EOB.txt
+4/28/2020 8:43:00 PM: reading parent eob data -20191231-EOB.txt
+4/28/2020 8:43:00 PM: parent eob data completed20191231-EOB.txt
+4/28/2020 8:43:00 PM: parsing second draft -20191231-EOB.txt
+4/28/2020 8:43:00 PM: completed second draft -20191231-EOB.txt
+4/28/2020 8:43:00 PM: Prepare list of object for export -20191231-EOB.txt
+4/28/2020 8:43:00 PM: Export started -20191231-EOB.txt
+4/28/2020 8:43:03 PM: Export completed- 20191231-EOB.txt
+4/28/2020 8:43:03 PM: Start Reading Text File-20191231-EOB1.txt
+4/28/2020 8:43:03 PM: FirstDraft completed -20191231-EOB1.txt
+4/28/2020 8:43:03 PM: reading parent eob data -20191231-EOB1.txt
+4/28/2020 8:43:03 PM: parent eob data completed20191231-EOB1.txt
+4/28/2020 8:43:03 PM: parsing second draft -20191231-EOB1.txt
+4/28/2020 8:43:03 PM: completed second draft -20191231-EOB1.txt
+4/28/2020 8:43:03 PM: Prepare list of object for export -20191231-EOB1.txt
+4/28/2020 8:43:03 PM: Export started -20191231-EOB1.txt
+4/28/2020 8:43:07 PM: Export completed- 20191231-EOB1.txt
+4/28/2020 8:59:47 PM: File reading and exporting is completed
+4/28/2020 9:27:39 PM: Test window service stopped
+4/30/2020 12:21:14 PM: service started
+4/30/2020 12:25:29 PM: Test window service stopped
+4/30/2020 12:25:30 PM: service started
+4/30/2020 12:28:21 PM: Test window service stopped
+4/30/2020 12:28:23 PM: service started
+4/30/2020 12:30:00 PM: Start Reading Text File-20191231-EOB.txt
+4/30/2020 12:30:00 PM: FirstDraft completed -20191231-EOB.txt
+4/30/2020 12:30:00 PM: reading parent eob data -20191231-EOB.txt
+4/30/2020 12:30:00 PM: parent eob data completed20191231-EOB.txt
+4/30/2020 12:30:00 PM: parsing second draft -20191231-EOB.txt
+4/30/2020 12:30:00 PM: completed second draft -20191231-EOB.txt
+4/30/2020 12:30:00 PM: Prepare list of object for export -20191231-EOB.txt
+4/30/2020 12:30:00 PM: Export started -20191231-EOB.txt
+4/30/2020 12:30:02 PM: Export completed- 20191231-EOB.txt
+4/30/2020 12:30:02 PM: Start Reading Text File-20191231-EOB1.txt
+4/30/2020 12:30:02 PM: FirstDraft completed -20191231-EOB1.txt
+4/30/2020 12:30:02 PM: reading parent eob data -20191231-EOB1.txt
+4/30/2020 12:30:02 PM: parent eob data completed20191231-EOB1.txt
+4/30/2020 12:30:02 PM: parsing second draft -20191231-EOB1.txt
+4/30/2020 12:30:02 PM: completed second draft -20191231-EOB1.txt
+4/30/2020 12:30:02 PM: Prepare list of object for export -20191231-EOB1.txt
+4/30/2020 12:30:02 PM: Export started -20191231-EOB1.txt
+4/30/2020 12:30:04 PM: Export completed- 20191231-EOB1.txt
+4/30/2020 12:46:44 PM: File reading and exporting is completed
+4/30/2020 4:50:35 PM: Test window service stopped
+4/30/2020 5:09:11 PM: service started
+4/30/2020 5:10:03 PM: Start Reading Text File-20191231-EOB.txt
+4/30/2020 5:10:03 PM: FirstDraft completed -20191231-EOB.txt
+4/30/2020 5:10:03 PM: reading parent eob data -20191231-EOB.txt
+4/30/2020 5:10:03 PM: parent eob data completed20191231-EOB.txt
+4/30/2020 5:10:03 PM: parsing second draft -20191231-EOB.txt
+4/30/2020 5:10:03 PM: completed second draft -20191231-EOB.txt
+4/30/2020 5:10:03 PM: Prepare list of object for export -20191231-EOB.txt
+4/30/2020 5:10:03 PM: Export started -20191231-EOB.txt
+4/30/2020 5:10:16 PM: Export completed- 20191231-EOB.txt
+4/30/2020 5:10:17 PM: Start Reading Text File-20191231-EOB1.txt
+4/30/2020 5:10:17 PM: FirstDraft completed -20191231-EOB1.txt
+4/30/2020 5:10:17 PM: reading parent eob data -20191231-EOB1.txt
+4/30/2020 5:10:17 PM: parent eob data completed20191231-EOB1.txt
+4/30/2020 5:10:17 PM: parsing second draft -20191231-EOB1.txt
+4/30/2020 5:10:17 PM: completed second draft -20191231-EOB1.txt
+4/30/2020 5:10:17 PM: Prepare list of object for export -20191231-EOB1.txt
+4/30/2020 5:10:17 PM: Export started -20191231-EOB1.txt
+4/30/2020 5:10:20 PM: Export completed- 20191231-EOB1.txt
+4/30/2020 5:12:43 PM: Test window service stopped
+4/30/2020 5:18:12 PM: service started
+4/30/2020 5:19:03 PM: Start Reading Text File-20191231-EOB.txt
+4/30/2020 5:19:03 PM: FirstDraft completed -20191231-EOB.txt
+4/30/2020 5:19:03 PM: reading parent eob data -20191231-EOB.txt
+4/30/2020 5:19:03 PM: parent eob data completed20191231-EOB.txt
+4/30/2020 5:19:03 PM: parsing second draft -20191231-EOB.txt
+4/30/2020 5:19:03 PM: completed second draft -20191231-EOB.txt
+4/30/2020 5:19:03 PM: Prepare list of object for export -20191231-EOB.txt
+4/30/2020 5:19:03 PM: Export started -20191231-EOB.txt
+4/30/2020 5:19:14 PM: Export completed- 20191231-EOB.txt
+4/30/2020 5:19:15 PM: Start Reading Text File-20191231-EOB1.txt
+4/30/2020 5:19:15 PM: FirstDraft completed -20191231-EOB1.txt
+4/30/2020 5:19:15 PM: reading parent eob data -20191231-EOB1.txt
+4/30/2020 5:19:15 PM: parent eob data completed20191231-EOB1.txt
+4/30/2020 5:19:15 PM: parsing second draft -20191231-EOB1.txt
+4/30/2020 5:19:15 PM: completed second draft -20191231-EOB1.txt
+4/30/2020 5:19:15 PM: Prepare list of object for export -20191231-EOB1.txt
+4/30/2020 5:19:15 PM: Export started -20191231-EOB1.txt
+4/30/2020 5:19:18 PM: Export completed- 20191231-EOB1.txt
+4/30/2020 5:25:44 PM: Test window service stopped
+4/30/2020 5:27:31 PM: service started
+4/30/2020 5:29:02 PM: Start Reading Text File-20191231-EOB.txt
+4/30/2020 5:29:02 PM: FirstDraft completed -20191231-EOB.txt
+4/30/2020 5:29:02 PM: reading parent eob data -20191231-EOB.txt
+4/30/2020 5:29:02 PM: parent eob data completed20191231-EOB.txt
+4/30/2020 5:29:02 PM: parsing second draft -20191231-EOB.txt
+4/30/2020 5:29:02 PM: completed second draft -20191231-EOB.txt
+4/30/2020 5:29:02 PM: Prepare list of object for export -20191231-EOB.txt
+4/30/2020 5:29:02 PM: Export started -20191231-EOB.txt
+4/30/2020 5:29:05 PM: Export completed- 20191231-EOB.txt
+4/30/2020 5:29:06 PM: Start Reading Text File-20191231-EOB1.txt
+4/30/2020 5:29:06 PM: FirstDraft completed -20191231-EOB1.txt
+4/30/2020 5:29:06 PM: reading parent eob data -20191231-EOB1.txt
+4/30/2020 5:29:06 PM: parent eob data completed20191231-EOB1.txt
+4/30/2020 5:29:06 PM: parsing second draft -20191231-EOB1.txt
+4/30/2020 5:29:06 PM: completed second draft -20191231-EOB1.txt
+4/30/2020 5:29:06 PM: Prepare list of object for export -20191231-EOB1.txt
+4/30/2020 5:29:06 PM: Export started -20191231-EOB1.txt
+4/30/2020 5:29:08 PM: Export completed- 20191231-EOB1.txt
+4/30/2020 5:29:46 PM: Test window service stopped
+4/30/2020 5:31:10 PM: service started
+4/30/2020 5:32:05 PM: Start Reading Text File-20191231-EOB.txt
+4/30/2020 5:32:05 PM: FirstDraft completed -20191231-EOB.txt
+4/30/2020 5:32:05 PM: reading parent eob data -20191231-EOB.txt
+4/30/2020 5:32:05 PM: parent eob data completed20191231-EOB.txt
+4/30/2020 5:32:05 PM: parsing second draft -20191231-EOB.txt
+4/30/2020 5:32:05 PM: completed second draft -20191231-EOB.txt
+4/30/2020 5:32:05 PM: Prepare list of object for export -20191231-EOB.txt
+4/30/2020 5:32:05 PM: Export started -20191231-EOB.txt
+4/30/2020 5:32:20 PM: Export completed- 20191231-EOB.txt
+4/30/2020 5:38:09 PM: Test window service stopped
+4/30/2020 5:39:55 PM: service started
+4/30/2020 5:41:02 PM: Start Reading Text File-20191231-EOB.txt
+4/30/2020 5:41:02 PM: FirstDraft completed -20191231-EOB.txt
+4/30/2020 5:41:02 PM: reading parent eob data -20191231-EOB.txt
+4/30/2020 5:41:02 PM: parent eob data completed20191231-EOB.txt
+4/30/2020 5:41:02 PM: parsing second draft -20191231-EOB.txt
+4/30/2020 5:41:02 PM: completed second draft -20191231-EOB.txt
+4/30/2020 5:41:02 PM: Prepare list of object for export -20191231-EOB.txt
+4/30/2020 5:41:02 PM: Export started -20191231-EOB.txt
+4/30/2020 5:41:25 PM: Export completed- 20191231-EOB.txt
+4/30/2020 5:44:19 PM: Test window service stopped
+4/30/2020 5:46:55 PM: service started
+4/30/2020 5:47:00 PM: Start Reading Text File-20191231-EOB.txt
+4/30/2020 5:47:00 PM: FirstDraft completed -20191231-EOB.txt
+4/30/2020 5:47:00 PM: reading parent eob data -20191231-EOB.txt
+4/30/2020 5:47:00 PM: parent eob data completed20191231-EOB.txt
+4/30/2020 5:47:00 PM: parsing second draft -20191231-EOB.txt
+4/30/2020 5:47:00 PM: completed second draft -20191231-EOB.txt
+4/30/2020 5:47:00 PM: Prepare list of object for export -20191231-EOB.txt
+4/30/2020 5:47:00 PM: Export started -20191231-EOB.txt
+4/30/2020 5:47:00 PM: System.Data; Column 'AdjustmentDescription' does not belong to table ParentEob.
+4/30/2020 5:48:26 PM: Test window service stopped
+4/30/2020 5:48:40 PM: service started
+4/30/2020 5:50:02 PM: Start Reading Text File-20191231-EOB.txt
+4/30/2020 5:50:02 PM: FirstDraft completed -20191231-EOB.txt
+4/30/2020 5:50:02 PM: reading parent eob data -20191231-EOB.txt
+4/30/2020 5:50:02 PM: parent eob data completed20191231-EOB.txt
+4/30/2020 5:50:02 PM: parsing second draft -20191231-EOB.txt
+4/30/2020 5:50:02 PM: completed second draft -20191231-EOB.txt
+4/30/2020 5:50:02 PM: Prepare list of object for export -20191231-EOB.txt
+4/30/2020 5:50:02 PM: Export started -20191231-EOB.txt
+4/30/2020 5:50:22 PM: System.Data; Column 'AdjustmentDescription' does not belong to table ParentEob.
+4/30/2020 5:55:55 PM: Test window service stopped
+4/30/2020 5:57:36 PM: service started
+4/30/2020 5:59:54 PM: Test window service stopped
+4/30/2020 5:59:55 PM: service started
+4/30/2020 6:00:00 PM: Start Reading Text File-20191231-EOB.txt
+4/30/2020 6:00:00 PM: FirstDraft completed -20191231-EOB.txt
+4/30/2020 6:00:00 PM: reading parent eob data -20191231-EOB.txt
+4/30/2020 6:00:00 PM: parent eob data completed20191231-EOB.txt
+4/30/2020 6:00:00 PM: parsing second draft -20191231-EOB.txt
+4/30/2020 6:00:00 PM: completed second draft -20191231-EOB.txt
+4/30/2020 6:00:00 PM: Prepare list of object for export -20191231-EOB.txt
+4/30/2020 6:00:00 PM: Export started -20191231-EOB.txt
+4/30/2020 6:00:00 PM: Export completed- 20191231-EOB.txt
+4/30/2020 6:01:14 PM: Test window service stopped
+5/10/2020 2:49:45 PM: service started
+5/10/2020 2:51:25 PM: Start Reading Text File-20191231-EOB.txt
+5/10/2020 2:51:25 PM: FirstDraft completed -20191231-EOB.txt
+5/10/2020 2:51:25 PM: reading header eob data -20191231-EOB.txt
+5/10/2020 2:51:25 PM: header eob data completed20191231-EOB.txt
+5/10/2020 2:51:25 PM: parsing second draft -20191231-EOB.txt
+5/10/2020 2:51:25 PM: completed second draft -20191231-EOB.txt
+5/10/2020 2:51:25 PM: Prepare list of object for export -20191231-EOB.txt
+5/10/2020 2:51:25 PM: Export started -20191231-EOB.txt
+5/10/2020 2:51:25 PM: Export completed- 20191231-EOB.txt
+5/10/2020 3:08:08 PM: File reading and exporting is completed
+5/10/2020 3:15:13 PM: Test window service stopped
+5/10/2020 3:15:17 PM: service started
+5/10/2020 3:16:03 PM: Start Reading Text File-20191231-EOB.txt
+5/10/2020 3:16:03 PM: FirstDraft completed -20191231-EOB.txt
+5/10/2020 3:16:03 PM: reading header eob data -20191231-EOB.txt
+5/10/2020 3:16:03 PM: header eob data completed20191231-EOB.txt
+5/10/2020 3:16:03 PM: parsing second draft -20191231-EOB.txt
+5/10/2020 3:16:03 PM: completed second draft -20191231-EOB.txt
+5/10/2020 3:16:03 PM: Prepare list of object for export -20191231-EOB.txt
+5/10/2020 3:16:03 PM: Export started -20191231-EOB.txt
+5/10/2020 3:16:32 PM: Microsoft Excel; Microsoft Excel cannot access the file 'D:\//MyProject/TargetFiles/E9196140'. There are several possible reasons:
+
+• The file name or path does not exist.
+• The file is being used by another program.
+• The workbook you are trying to save has the same name as a currently open workbook.
+5/10/2020 3:17:07 PM: Test window service stopped
+5/10/2020 3:18:22 PM: service started
+5/10/2020 3:20:37 PM: Test window service stopped
+5/10/2020 3:20:38 PM: service started
+5/10/2020 3:21:38 PM: Test window service stopped
+5/10/2020 3:21:39 PM: service started
+5/10/2020 3:22:02 PM: Start Reading Text File-20191231-EOB.txt
+5/10/2020 3:22:02 PM: FirstDraft completed -20191231-EOB.txt
+5/10/2020 3:22:02 PM: reading header eob data -20191231-EOB.txt
+5/10/2020 3:22:02 PM: header eob data completed20191231-EOB.txt
+5/10/2020 3:22:02 PM: parsing second draft -20191231-EOB.txt
+5/10/2020 3:22:02 PM: completed second draft -20191231-EOB.txt
+5/10/2020 3:22:02 PM: Prepare list of object for export -20191231-EOB.txt
+5/10/2020 3:22:09 PM: Export started -20191231-EOB.txt
+5/10/2020 3:22:17 PM: Microsoft Excel; The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the filename and folder path do not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the filename and folder path do not contain more than 218 characters.
+5/10/2020 3:23:42 PM: Test window service stopped
+5/10/2020 3:23:46 PM: service started
+5/10/2020 3:25:04 PM: Start Reading Text File-20191231-EOB.txt
+5/10/2020 3:25:04 PM: FirstDraft completed -20191231-EOB.txt
+5/10/2020 3:25:04 PM: reading header eob data -20191231-EOB.txt
+5/10/2020 3:25:05 PM: header eob data completed20191231-EOB.txt
+5/10/2020 3:25:05 PM: parsing second draft -20191231-EOB.txt
+5/10/2020 3:25:05 PM: completed second draft -20191231-EOB.txt
+5/10/2020 3:25:05 PM: Prepare list of object for export -20191231-EOB.txt
+5/10/2020 3:25:05 PM: Export started -20191231-EOB.txt
+5/10/2020 3:25:11 PM: Microsoft Excel; The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the filename and folder path do not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the filename and folder path do not contain more than 218 characters.
+5/10/2020 3:26:28 PM: Test window service stopped
+5/10/2020 3:27:54 PM: service started
+5/10/2020 3:29:02 PM: Start Reading Text File-20191231-EOB.txt
+5/10/2020 3:29:02 PM: FirstDraft completed -20191231-EOB.txt
+5/10/2020 3:29:02 PM: reading header eob data -20191231-EOB.txt
+5/10/2020 3:29:02 PM: header eob data completed20191231-EOB.txt
+5/10/2020 3:29:02 PM: parsing second draft -20191231-EOB.txt
+5/10/2020 3:29:02 PM: completed second draft -20191231-EOB.txt
+5/10/2020 3:29:02 PM: Prepare list of object for export -20191231-EOB.txt
+5/10/2020 3:29:02 PM: Export started -20191231-EOB.txt
+5/10/2020 3:29:02 PM: Export completed- 20191231-EOB.txt
+5/10/2020 3:37:26 PM: Test window service stopped
+5/10/2020 3:37:27 PM: service started
+5/10/2020 3:38:24 PM: Test window service stopped
+5/10/2020 3:38:25 PM: service started
+5/10/2020 3:39:02 PM: Start Reading Text File-20191231-EOB.txt
+5/10/2020 3:39:02 PM: FirstDraft completed -20191231-EOB.txt
+5/10/2020 3:39:02 PM: reading header eob data -20191231-EOB.txt
+5/10/2020 3:39:02 PM: header eob data completed20191231-EOB.txt
+5/10/2020 3:39:02 PM: parsing second draft -20191231-EOB.txt
+5/10/2020 3:39:02 PM: completed second draft -20191231-EOB.txt
+5/10/2020 3:39:02 PM: Prepare list of object for export -20191231-EOB.txt
+5/10/2020 3:39:02 PM: Export started -20191231-EOB.txt
+5/10/2020 3:39:34 PM: Microsoft Excel; The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the filename and folder path do not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the filename and folder path do not contain more than 218 characters.
+5/10/2020 3:39:34 PM: FirstDraft completed -20191231-EOB.txt
+5/10/2020 3:39:34 PM: reading header eob data -20191231-EOB.txt
+5/10/2020 3:39:34 PM: header eob data completed20191231-EOB.txt
+5/10/2020 3:39:34 PM: parsing second draft -20191231-EOB.txt
+5/10/2020 3:39:34 PM: completed second draft -20191231-EOB.txt
+5/10/2020 3:39:34 PM: Prepare list of object for export -20191231-EOB.txt
+5/10/2020 3:39:34 PM: Export started -20191231-EOB.txt
+5/10/2020 3:39:35 PM: Microsoft Excel; The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the filename and folder path do not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the filename and folder path do not contain more than 218 characters.
+5/10/2020 3:40:37 PM: Test window service stopped
+5/10/2020 3:42:51 PM: service started
+5/10/2020 3:45:00 PM: Test window service stopped
+5/10/2020 3:45:44 PM: service started
+5/10/2020 3:46:04 PM: Start Reading Text File-20191231-EOB.txt
+5/10/2020 3:46:04 PM: FirstDraft completed -20191231-EOB.txt
+5/10/2020 3:46:04 PM: reading header eob data -20191231-EOB.txt
+5/10/2020 3:46:04 PM: header eob data completed20191231-EOB.txt
+5/10/2020 3:46:04 PM: parsing second draft -20191231-EOB.txt
+5/10/2020 3:46:04 PM: completed second draft -20191231-EOB.txt
+5/10/2020 3:46:04 PM: Prepare list of object for export -20191231-EOB.txt
+5/10/2020 3:46:04 PM: Export started -20191231-EOB.txt
+5/10/2020 3:46:50 PM: Microsoft Excel; The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the filename and folder path do not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the filename and folder path do not contain more than 218 characters.
+5/10/2020 3:46:50 PM: Start Reading Text File-20191231-EOB.txt
+5/10/2020 3:46:50 PM: mscorlib; Could not find file 'D:\MyProject\SourceFiles\20191231-EOB.txt'.
+5/10/2020 3:48:37 PM: Test window service stopped
+5/10/2020 3:48:42 PM: service started
+5/10/2020 3:49:46 PM: Test window service stopped
+5/10/2020 3:49:47 PM: service started
+5/10/2020 3:51:09 PM: Start Reading Text File-20191231-EOB.txt
+5/10/2020 3:51:09 PM: FirstDraft completed -20191231-EOB.txt
+5/10/2020 3:51:09 PM: reading header eob data -20191231-EOB.txt
+5/10/2020 3:51:09 PM: header eob data completed20191231-EOB.txt
+5/10/2020 3:51:09 PM: parsing second draft -20191231-EOB.txt
+5/10/2020 3:51:09 PM: completed second draft -20191231-EOB.txt
+5/10/2020 3:51:09 PM: Prepare list of object for export -20191231-EOB.txt
+5/10/2020 3:51:09 PM: Export started -20191231-EOB.txt
+5/10/2020 3:51:38 PM: Microsoft Excel; The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the filename and folder path do not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the filename and folder path do not contain more than 218 characters.
+5/10/2020 4:00:19 PM: service started
+5/10/2020 4:01:45 PM: Test window service stopped
+5/10/2020 4:01:47 PM: service started
+5/10/2020 4:03:02 PM: Start Reading Text File-20191231-EOB.txt
+5/10/2020 4:03:02 PM: FirstDraft completed -20191231-EOB.txt
+5/10/2020 4:03:02 PM: reading header eob data -20191231-EOB.txt
+5/10/2020 4:03:02 PM: header eob data completed20191231-EOB.txt
+5/10/2020 4:03:02 PM: parsing second draft -20191231-EOB.txt
+5/10/2020 4:03:02 PM: completed second draft -20191231-EOB.txt
+5/10/2020 4:03:02 PM: Prepare list of object for export -20191231-EOB.txt
+5/10/2020 4:03:02 PM: Export started -20191231-EOB.txt
+5/10/2020 4:03:25 PM: Microsoft Excel; The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the filename and folder path do not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the filename and folder path do not contain more than 218 characters.
+5/10/2020 4:03:30 PM: Test window service stopped
+5/10/2020 4:12:34 PM: service started
+5/10/2020 4:14:06 PM: Start Reading Text File-20191231-EOB.txt
+5/10/2020 4:14:06 PM: FirstDraft completed -20191231-EOB.txt
+5/10/2020 4:14:06 PM: reading header eob data -20191231-EOB.txt
+5/10/2020 4:14:06 PM: header eob data completed20191231-EOB.txt
+5/10/2020 4:14:06 PM: parsing second draft -20191231-EOB.txt
+5/10/2020 4:14:06 PM: completed second draft -20191231-EOB.txt
+5/10/2020 4:14:06 PM: Prepare list of object for export -20191231-EOB.txt
+5/10/2020 4:14:06 PM: Export started -20191231-EOB.txt
+5/10/2020 4:14:16 PM: Microsoft Excel; The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the filename and folder path do not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the filename and folder path do not contain more than 218 characters.
+5/10/2020 4:24:18 PM: Test window service stopped
+5/10/2020 4:24:20 PM: service started
+5/10/2020 4:25:00 PM: Start Reading Text File-20191231-EOB.txt
+5/10/2020 4:25:00 PM: FirstDraft completed -20191231-EOB.txt
+5/10/2020 4:25:00 PM: reading header eob data -20191231-EOB.txt
+5/10/2020 4:25:00 PM: header eob data completed20191231-EOB.txt
+5/10/2020 4:25:00 PM: parsing second draft -20191231-EOB.txt
+5/10/2020 4:25:00 PM: completed second draft -20191231-EOB.txt
+5/10/2020 4:25:00 PM: Prepare list of object for export -20191231-EOB.txt
+5/10/2020 4:25:00 PM: Export started -20191231-EOB.txt
+5/10/2020 4:25:23 PM: Microsoft Excel; The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the filename and folder path do not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the filename and folder path do not contain more than 218 characters.
+5/10/2020 4:25:39 PM: Test window service stopped
+5/10/2020 4:25:40 PM: service started
+5/10/2020 4:25:54 PM: Test window service stopped
+5/10/2020 4:25:56 PM: service started
+5/10/2020 4:27:00 PM: Ths file already exist completed or destination folder. 20191231-EOB.txt
+5/10/2020 4:27:00 PM: mscorlib; Cannot create a file when that file already exists.
+5/10/2020 4:28:03 PM: Test window service stopped
+5/10/2020 4:28:04 PM: service started
+5/10/2020 4:29:00 PM: Ths file already exist completed or destination folder. 20191231-EOB.txt
+5/10/2020 4:29:00 PM: mscorlib; Cannot create a file when that file already exists.
+5/10/2020 4:29:36 PM: Test window service stopped
+5/10/2020 4:29:38 PM: service started
+5/10/2020 4:30:17 PM: Start Reading Text File-20191231-EOB.txt
+5/10/2020 4:30:42 PM: FirstDraft completed -20191231-EOB.txt
+5/10/2020 4:30:55 PM: reading header eob data -20191231-EOB.txt
+5/10/2020 4:30:57 PM: Start Reading Text File-20191231-EOB.txt
+5/10/2020 4:30:57 PM: header eob data completed20191231-EOB.txt
+5/10/2020 4:30:59 PM: parsing second draft -20191231-EOB.txt
+5/10/2020 4:31:00 PM: FirstDraft completed -20191231-EOB.txt
+5/10/2020 4:31:03 PM: reading header eob data -20191231-EOB.txt
+5/10/2020 4:31:04 PM: header eob data completed20191231-EOB.txt
+5/10/2020 4:31:04 PM: parsing second draft -20191231-EOB.txt
+5/10/2020 4:31:14 PM: mscorlib; Cannot create a file when that file already exists.
+5/10/2020 4:32:14 PM: Ths file already exist completed or destination folder. 20191231-EOB.txt
+5/10/2020 4:32:14 PM: mscorlib; Cannot create a file when that file already exists.
+5/10/2020 4:32:14 PM: Microsoft Excel; The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the filename and folder path do not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the filename and folder path do not contain more than 218 characters.
+5/10/2020 4:32:35 PM: Ths file already exist completed or destination folder. 20191231-EOB.txt
+5/10/2020 4:32:35 PM: mscorlib; Cannot create a file when that file already exists.
+5/10/2020 4:32:38 PM: Test window service stopped
+5/10/2020 4:32:39 PM: service started
+5/10/2020 4:34:00 PM: Ths file already exist completed or destination folder. 20191231-EOB.txt
+5/10/2020 4:34:00 PM: mscorlib; Cannot create a file when that file already exists.
+5/10/2020 4:34:37 PM: Test window service stopped
+5/10/2020 4:35:47 PM: service started
+5/10/2020 4:36:00 PM: Ths file already exist completed or destination folder. 20191231-EOB.txt
+5/10/2020 4:36:00 PM: mscorlib; Cannot create a file when that file already exists.
+5/10/2020 4:36:27 PM: Start Reading Text File-20191231-EOB.txt
+5/10/2020 4:36:28 PM: Ths file already exist completed or destination folder. 20191231-EOB.txt
+5/10/2020 4:36:28 PM: reading header eob data -20191231-EOB.txt
+5/10/2020 4:36:28 PM: header eob data completed20191231-EOB.txt
+5/10/2020 4:36:28 PM: parsing second draft -20191231-EOB.txt
+5/10/2020 4:36:30 PM: mscorlib; Cannot create a file when that file already exists.
+5/10/2020 4:36:31 PM: completed second draft -20191231-EOB.txt
+5/10/2020 4:36:31 PM: Prepare list of object for export -20191231-EOB.txt
+5/10/2020 4:36:31 PM: Export started -20191231-EOB.txt
+5/10/2020 4:36:48 PM: Ths file already exist completed or destination folder. 20191231-EOB.txt
+5/10/2020 4:36:49 PM: mscorlib; Cannot create a file when that file already exists.
+5/10/2020 4:37:27 PM: Ths file already exist completed or destination folder. 20191231-EOB.txt
+5/10/2020 4:37:27 PM: mscorlib; Cannot create a file when that file already exists.
+5/10/2020 4:37:28 PM: Microsoft Excel; The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the filename and folder path do not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the filename and folder path do not contain more than 218 characters.
+5/10/2020 4:37:40 PM: Ths file already exist completed or destination folder. 20191231-EOB.txt
+5/10/2020 4:37:40 PM: mscorlib; Cannot create a file when that file already exists.
+5/10/2020 4:37:53 PM: Ths file already exist completed or destination folder. 20191231-EOB.txt
+5/10/2020 4:37:53 PM: mscorlib; Cannot create a file when that file already exists.
+5/10/2020 4:38:06 PM: Ths file already exist completed or destination folder. 20191231-EOB.txt
+5/10/2020 4:38:06 PM: mscorlib; Cannot create a file when that file already exists.
+5/10/2020 4:38:19 PM: Ths file already exist completed or destination folder. 20191231-EOB.txt
+5/10/2020 4:38:19 PM: mscorlib; Cannot create a file when that file already exists.
+5/10/2020 4:38:20 PM: Test window service stopped
+5/10/2020 4:40:31 PM: service started
+5/10/2020 4:41:04 PM: Start Reading Text File-20191231-EOB.txt
+5/10/2020 4:41:04 PM: FirstDraft completed -20191231-EOB.txt
+5/10/2020 4:41:04 PM: reading header eob data -20191231-EOB.txt
+5/10/2020 4:41:04 PM: header eob data completed20191231-EOB.txt
+5/10/2020 4:41:04 PM: parsing second draft -20191231-EOB.txt
+5/10/2020 4:41:04 PM: completed second draft -20191231-EOB.txt
+5/10/2020 4:41:04 PM: Prepare list of object for export -20191231-EOB.txt
+5/10/2020 4:41:04 PM: Export started -20191231-EOB.txt
+5/10/2020 4:41:35 PM: Microsoft Excel; The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the filename and folder path do not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the filename and folder path do not contain more than 218 characters.
+5/10/2020 4:41:35 PM: completed second draft -20191231-EOB.txt
+5/10/2020 4:41:35 PM: Prepare list of object for export -20191231-EOB.txt
+5/10/2020 4:41:35 PM: Export started -20191231-EOB.txt
+5/10/2020 4:41:36 PM: Microsoft Excel; The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the filename and folder path do not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the filename and folder path do not contain more than 218 characters.
+5/10/2020 4:42:00 PM: Test window service stopped
+5/10/2020 4:42:59 PM: service started
+5/10/2020 4:44:26 PM: Test window service stopped
+5/10/2020 4:45:08 PM: service started
+5/10/2020 4:46:47 PM: Test window service stopped
+5/10/2020 4:46:49 PM: service started
+5/10/2020 4:47:00 PM: Start Reading Text File-20191231-EOB.txt
+5/10/2020 4:47:00 PM: FirstDraft completed -20191231-EOB.txt
+5/10/2020 4:47:00 PM: reading header eob data -20191231-EOB.txt
+5/10/2020 4:47:00 PM: header eob data completed20191231-EOB.txt
+5/10/2020 4:47:00 PM: parsing second draft -20191231-EOB.txt
+5/10/2020 4:47:00 PM: completed second draft -20191231-EOB.txt
+5/10/2020 4:47:00 PM: Prepare list of object for export -20191231-EOB.txt
+5/10/2020 4:47:00 PM: Export started -20191231-EOB.txt
+5/10/2020 4:47:26 PM: Microsoft Excel; The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the filename and folder path do not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the filename and folder path do not contain more than 218 characters.
+5/10/2020 4:47:27 PM: Start Reading Text File-20191231-EOB.txt
+5/10/2020 4:47:29 PM: mscorlib; Could not find file 'D:\MyProject\SourceFiles\20191231-EOB.txt'.
+5/10/2020 4:50:59 PM: Test window service stopped
+5/10/2020 4:51:00 PM: service started
+5/10/2020 4:52:03 PM: Start Reading Text File-20191231-EOB.txt
+5/10/2020 4:52:03 PM: FirstDraft completed -20191231-EOB.txt
+5/10/2020 4:52:03 PM: reading header eob data -20191231-EOB.txt
+5/10/2020 4:52:03 PM: header eob data completed20191231-EOB.txt
+5/10/2020 4:52:03 PM: parsing second draft -20191231-EOB.txt
+5/10/2020 4:52:03 PM: completed second draft -20191231-EOB.txt
+5/10/2020 4:52:03 PM: Prepare list of object for export -20191231-EOB.txt
+5/10/2020 4:52:05 PM: Export started -20191231-EOB.txt
+5/10/2020 4:52:24 PM: Microsoft Excel; The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the filename and folder path do not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the filename and folder path do not contain more than 218 characters.
+5/10/2020 4:53:02 PM: Test window service stopped
+5/10/2020 4:54:19 PM: service started
+5/10/2020 4:55:03 PM: Start Reading Text File-20191231-EOB.txt
+5/10/2020 4:55:03 PM: FirstDraft completed -20191231-EOB.txt
+5/10/2020 4:55:03 PM: reading header eob data -20191231-EOB.txt
+5/10/2020 4:55:04 PM: header eob data completed20191231-EOB.txt
+5/10/2020 4:55:04 PM: parsing second draft -20191231-EOB.txt
+5/10/2020 4:55:04 PM: completed second draft -20191231-EOB.txt
+5/10/2020 4:55:04 PM: Prepare list of object for export -20191231-EOB.txt
+5/10/2020 4:55:18 PM: Export started -20191231-EOB.txt
+5/10/2020 4:55:22 PM: Microsoft Excel; The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the filename and folder path do not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the filename and folder path do not contain more than 218 characters.
+5/10/2020 4:56:26 PM: Test window service stopped
+5/10/2020 4:56:28 PM: service started
+5/10/2020 4:57:15 PM: Start Reading Text File-20191231-EOB.txt
+5/10/2020 4:57:15 PM: FirstDraft completed -20191231-EOB.txt
+5/10/2020 4:57:15 PM: reading header eob data -20191231-EOB.txt
+5/10/2020 4:57:15 PM: header eob data completed20191231-EOB.txt
+5/10/2020 4:57:15 PM: parsing second draft -20191231-EOB.txt
+5/10/2020 4:57:15 PM: completed second draft -20191231-EOB.txt
+5/10/2020 4:57:15 PM: Prepare list of object for export -20191231-EOB.txt
+5/10/2020 4:57:20 PM: Export started -20191231-EOB.txt
+5/10/2020 4:57:37 PM: Start Reading Text File-20191231-EOB.txt
+5/10/2020 4:57:37 PM: FirstDraft completed -20191231-EOB.txt
+5/10/2020 4:57:37 PM: reading header eob data -20191231-EOB.txt
+5/10/2020 4:57:37 PM: header eob data completed20191231-EOB.txt
+5/10/2020 4:57:37 PM: parsing second draft -20191231-EOB.txt
+5/10/2020 4:57:37 PM: completed second draft -20191231-EOB.txt
+5/10/2020 4:57:37 PM: Prepare list of object for export -20191231-EOB.txt
+5/10/2020 4:57:37 PM: Export started -20191231-EOB.txt
+5/10/2020 4:57:37 PM: Microsoft Excel; The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the filename and folder path do not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the filename and folder path do not contain more than 218 characters.
+5/11/2020 10:29:07 AM: File reading and exporting is completed
+5/11/2020 3:06:53 PM: Test window service stopped
+5/11/2020 3:07:25 PM: service started
+5/11/2020 3:10:04 PM: Start Reading Text File-20191231-EOB.txt
+5/11/2020 3:10:04 PM: FirstDraft completed -20191231-EOB.txt
+5/11/2020 3:10:04 PM: reading header eob data -20191231-EOB.txt
+5/11/2020 3:10:04 PM: header eob data completed20191231-EOB.txt
+5/11/2020 3:10:04 PM: parsing second draft -20191231-EOB.txt
+5/11/2020 3:10:04 PM: completed second draft -20191231-EOB.txt
+5/11/2020 3:10:04 PM: Prepare list of object for export -20191231-EOB.txt
+5/11/2020 3:10:06 PM: Export started -20191231-EOB.txt
+5/11/2020 3:10:37 PM: Microsoft Excel; The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the filename and folder path do not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the filename and folder path do not contain more than 218 characters.
+5/11/2020 3:10:41 PM: Test window service stopped
+5/11/2020 3:11:44 PM: service started
+5/11/2020 3:12:00 PM: Start Reading Text File-20191231-EOB.txt
+5/11/2020 3:12:00 PM: FirstDraft completed -20191231-EOB.txt
+5/11/2020 3:12:00 PM: reading header eob data -20191231-EOB.txt
+5/11/2020 3:12:00 PM: header eob data completed20191231-EOB.txt
+5/11/2020 3:12:00 PM: parsing second draft -20191231-EOB.txt
+5/11/2020 3:12:00 PM: completed second draft -20191231-EOB.txt
+5/11/2020 3:12:00 PM: Prepare list of object for export -20191231-EOB.txt
+5/11/2020 3:12:00 PM: Export started -20191231-EOB.txt
+5/11/2020 3:12:00 PM: Microsoft Excel; The file could not be accessed. Try one of the following:
+
+• Make sure the specified folder exists. 
+• Make sure the folder that contains the file is not read-only.
+• Make sure the filename and folder path do not contain any of the following characters:  <  >  ?  [  ]  :  | or  *
+• Make sure the filename and folder path do not contain more than 218 characters.
+5/11/2020 3:13:57 PM: Test window service stopped
+5/11/2020 3:18:26 PM: service started
+5/11/2020 3:19:03 PM: Start Reading Text File-20191231-EOB.txt
+5/11/2020 3:19:03 PM: FirstDraft completed -20191231-EOB.txt
+5/11/2020 3:19:03 PM: reading header eob data -20191231-EOB.txt
+5/11/2020 3:19:03 PM: header eob data completed20191231-EOB.txt
+5/11/2020 3:19:03 PM: parsing second draft -20191231-EOB.txt
+5/11/2020 3:19:03 PM: completed second draft -20191231-EOB.txt
+5/11/2020 3:19:03 PM: Prepare list of object for export -20191231-EOB.txt
+5/11/2020 3:19:03 PM: Export started -20191231-EOB.txt
+5/11/2020 3:20:15 PM: Microsoft Excel; Microsoft Excel cannot access the file 'D:\//MyProject/TargetFiles/12750500'. There are several possible reasons:
+
+• The file name or path does not exist.
+• The file is being used by another program.
+• The workbook you are trying to save has the same name as a currently open workbook.
+5/11/2020 3:20:15 PM: completed second draft -20191231-EOB.txt
+5/11/2020 3:20:15 PM: Prepare list of object for export -20191231-EOB.txt
+5/11/2020 3:20:15 PM: Export started -20191231-EOB.txt
+5/11/2020 3:20:16 PM: Microsoft Excel; Microsoft Excel cannot access the file 'D:\//MyProject/TargetFiles/20660500'. There are several possible reasons:
+
+• The file name or path does not exist.
+• The file is being used by another program.
+• The workbook you are trying to save has the same name as a currently open workbook.
+5/11/2020 3:21:51 PM: Test window service stopped
+5/11/2020 3:21:53 PM: service started
+5/11/2020 3:23:03 PM: Start Reading Text File-20191231-EOB.txt
+5/11/2020 3:23:03 PM: FirstDraft completed -20191231-EOB.txt
+5/11/2020 3:23:03 PM: reading header eob data -20191231-EOB.txt
+5/11/2020 3:23:03 PM: header eob data completed20191231-EOB.txt
+5/11/2020 3:23:03 PM: parsing second draft -20191231-EOB.txt
+5/11/2020 3:23:03 PM: completed second draft -20191231-EOB.txt
+5/11/2020 3:23:03 PM: Prepare list of object for export -20191231-EOB.txt
+5/11/2020 3:23:03 PM: Export started -20191231-EOB.txt
+5/11/2020 3:23:49 PM: Test window service stopped
+5/11/2020 3:23:50 PM: service started
+5/11/2020 3:25:03 PM: Start Reading Text File-20191231-EOB.txt
+5/11/2020 3:25:03 PM: FirstDraft completed -20191231-EOB.txt
+5/11/2020 3:25:03 PM: reading header eob data -20191231-EOB.txt
+5/11/2020 3:25:03 PM: header eob data completed20191231-EOB.txt
+5/11/2020 3:25:03 PM: parsing second draft -20191231-EOB.txt
+5/11/2020 3:25:03 PM: completed second draft -20191231-EOB.txt
+5/11/2020 3:25:03 PM: Prepare list of object for export -20191231-EOB.txt
+5/11/2020 3:25:03 PM: Export started -20191231-EOB.txt
+5/11/2020 3:25:32 PM: Test window service stopped
+5/11/2020 3:25:34 PM: service started
+5/11/2020 3:27:09 PM: Start Reading Text File-20191231-EOB.txt
+5/11/2020 3:27:09 PM: FirstDraft completed -20191231-EOB.txt
+5/11/2020 3:27:09 PM: reading header eob data -20191231-EOB.txt
+5/11/2020 3:27:09 PM: header eob data completed20191231-EOB.txt
+5/11/2020 3:27:09 PM: parsing second draft -20191231-EOB.txt
+5/11/2020 3:27:09 PM: completed second draft -20191231-EOB.txt
+5/11/2020 3:27:09 PM: Prepare list of object for export -20191231-EOB.txt
+5/11/2020 3:27:09 PM: Export started -20191231-EOB.txt
+5/11/2020 3:27:40 PM: Test window service stopped
+5/11/2020 3:27:42 PM: service started
+5/11/2020 3:29:24 PM: Start Reading Text File-20191231-EOB.txt
+5/11/2020 3:29:24 PM: FirstDraft completed -20191231-EOB.txt
+5/11/2020 3:29:24 PM: reading header eob data -20191231-EOB.txt
+5/11/2020 3:29:24 PM: header eob data completed20191231-EOB.txt
+5/11/2020 3:29:24 PM: parsing second draft -20191231-EOB.txt
+5/11/2020 3:29:24 PM: completed second draft -20191231-EOB.txt
+5/11/2020 3:29:24 PM: Prepare list of object for export -20191231-EOB.txt
+5/11/2020 3:29:24 PM: Export started -20191231-EOB.txt
+5/11/2020 3:30:12 PM: mscorlib; Retrieving the COM class factory for component with CLSID {00024500-0000-0000-C000-000000000046} failed due to the following error: 80080005 Server execution failed (Exception from HRESULT: 0x80080005 (CO_E_SERVER_EXEC_FAILURE)).
+5/11/2020 3:35:13 PM: Test window service stopped
+5/11/2020 3:38:33 PM: service started
+5/11/2020 3:39:02 PM: Start Reading Text File-20191231-EOB.txt
+5/11/2020 3:39:02 PM: FirstDraft completed -20191231-EOB.txt
+5/11/2020 3:39:02 PM: reading header eob data -20191231-EOB.txt
+5/11/2020 3:39:02 PM: header eob data completed20191231-EOB.txt
+5/11/2020 3:39:02 PM: parsing second draft -20191231-EOB.txt
+5/11/2020 3:39:02 PM: completed second draft -20191231-EOB.txt
+5/11/2020 3:39:02 PM: Prepare list of object for export -20191231-EOB.txt
+5/11/2020 3:39:02 PM: Export started -20191231-EOB.txt
+5/11/2020 3:39:30 PM: Start Reading Text File-20191231-EOB.txt
+5/11/2020 3:39:30 PM: FirstDraft completed -20191231-EOB.txt
+5/11/2020 3:39:30 PM: reading header eob data -20191231-EOB.txt
+5/11/2020 3:39:30 PM: header eob data completed20191231-EOB.txt
+5/11/2020 3:39:30 PM: parsing second draft -20191231-EOB.txt
+5/11/2020 3:39:30 PM: completed second draft -20191231-EOB.txt
+5/11/2020 3:39:30 PM: Prepare list of object for export -20191231-EOB.txt
+5/11/2020 3:39:30 PM: Export started -20191231-EOB.txt
+5/11/2020 3:39:46 PM: mscorlib; Retrieving the COM class factory for component with CLSID {00024500-0000-0000-C000-000000000046} failed due to the following error: 80080005 Server execution failed (Exception from HRESULT: 0x80080005 (CO_E_SERVER_EXEC_FAILURE)).
+5/11/2020 3:40:05 PM: mscorlib; Retrieving the COM class factory for component with CLSID {00024500-0000-0000-C000-000000000046} failed due to the following error: 80080005 Server execution failed (Exception from HRESULT: 0x80080005 (CO_E_SERVER_EXEC_FAILURE)).
+5/11/2020 3:56:26 PM: File reading and exporting is completed
+5/11/2020 9:32:42 PM: service started
+5/11/2020 9:34:03 PM: Start Reading Text File-20191231-EOB.txt
+5/11/2020 9:34:03 PM: FirstDraft completed -20191231-EOB.txt
+5/11/2020 9:34:03 PM: reading header eob data -20191231-EOB.txt
+5/11/2020 9:34:03 PM: header eob data completed20191231-EOB.txt
+5/11/2020 9:34:03 PM: parsing second draft -20191231-EOB.txt
+5/11/2020 9:34:03 PM: completed second draft -20191231-EOB.txt
+5/11/2020 9:34:03 PM: Prepare list of object for export -20191231-EOB.txt
+5/11/2020 9:34:03 PM: Export started -20191231-EOB.txt
+5/11/2020 9:35:22 PM: Start Reading Text File-20191231-EOB.txt
+5/11/2020 9:35:22 PM: FirstDraft completed -20191231-EOB.txt
+5/11/2020 9:35:22 PM: reading header eob data -20191231-EOB.txt
+5/11/2020 9:35:22 PM: header eob data completed20191231-EOB.txt
+5/11/2020 9:35:22 PM: parsing second draft -20191231-EOB.txt
+5/11/2020 9:35:22 PM: completed second draft -20191231-EOB.txt
+5/11/2020 9:35:22 PM: Prepare list of object for export -20191231-EOB.txt
+5/11/2020 9:35:22 PM: Export started -20191231-EOB.txt
+5/11/2020 9:36:31 PM: mscorlib; Retrieving the COM class factory for component with CLSID {00024500-0000-0000-C000-000000000046} failed due to the following error: 80080005 Server execution failed (Exception from HRESULT: 0x80080005 (CO_E_SERVER_EXEC_FAILURE)).
+5/11/2020 9:37:22 PM: Test window service stopped
+5/11/2020 9:42:56 PM: service started
+5/11/2020 9:44:14 PM: Start Reading Text File-20191231-EOB.txt
+5/11/2020 9:44:14 PM: FirstDraft completed -20191231-EOB.txt
+5/11/2020 9:44:14 PM: reading header eob data -20191231-EOB.txt
+5/11/2020 9:44:14 PM: header eob data completed20191231-EOB.txt
+5/11/2020 9:44:14 PM: parsing second draft -20191231-EOB.txt
+5/11/2020 9:44:14 PM: completed second draft -20191231-EOB.txt
+5/11/2020 9:44:14 PM: Prepare list of object for export -20191231-EOB.txt
+5/11/2020 9:44:14 PM: Export started -20191231-EOB.txt
+5/11/2020 9:45:07 PM: Start Reading Text File-20191231-EOB.txt
+5/11/2020 9:45:07 PM: FirstDraft completed -20191231-EOB.txt
+5/11/2020 9:45:07 PM: reading header eob data -20191231-EOB.txt
+5/11/2020 9:45:07 PM: header eob data completed20191231-EOB.txt
+5/11/2020 9:45:07 PM: parsing second draft -20191231-EOB.txt
+5/11/2020 9:45:07 PM: completed second draft -20191231-EOB.txt
+5/11/2020 9:45:07 PM: Prepare list of object for export -20191231-EOB.txt
+5/11/2020 9:45:07 PM: Export started -20191231-EOB.txt
+5/11/2020 9:46:08 PM: Start Reading Text File-20191231-EOB.txt
+5/11/2020 9:46:09 PM: FirstDraft completed -20191231-EOB.txt
+5/11/2020 9:46:09 PM: reading header eob data -20191231-EOB.txt
+5/11/2020 9:46:09 PM: header eob data completed20191231-EOB.txt
+5/11/2020 9:46:09 PM: parsing second draft -20191231-EOB.txt
+5/11/2020 9:46:09 PM: completed second draft -20191231-EOB.txt
+5/11/2020 9:46:09 PM: Prepare list of object for export -20191231-EOB.txt
+5/11/2020 9:46:09 PM: Export started -20191231-EOB.txt
+5/11/2020 9:46:21 PM: mscorlib; Retrieving the COM class factory for component with CLSID {00024500-0000-0000-C000-000000000046} failed due to the following error: 80080005 Server execution failed (Exception from HRESULT: 0x80080005 (CO_E_SERVER_EXEC_FAILURE)).
+5/11/2020 9:48:18 PM: mscorlib; Retrieving the COM class factory for component with CLSID {00024500-0000-0000-C000-000000000046} failed due to the following error: 80080005 Server execution failed (Exception from HRESULT: 0x80080005 (CO_E_SERVER_EXEC_FAILURE)).
+5/11/2020 9:50:18 PM: mscorlib; Retrieving the COM class factory for component with CLSID {00024500-0000-0000-C000-000000000046} failed due to the following error: 80080005 Server execution failed (Exception from HRESULT: 0x80080005 (CO_E_SERVER_EXEC_FAILURE)).
+5/11/2020 9:56:56 PM: Test window service stopped
+5/11/2020 10:11:29 PM: service started
+5/11/2020 10:11:33 PM: Test window service stopped
+5/11/2020 10:18:19 PM: service started
+5/11/2020 10:19:18 PM: Test window service stopped
+5/11/2020 10:21:32 PM: service started
+5/11/2020 10:23:02 PM: Start Reading Text File-20191231-EOB.txt
+5/11/2020 10:23:02 PM: FirstDraft completed -20191231-EOB.txt
+5/11/2020 10:23:02 PM: reading header eob data -20191231-EOB.txt
+5/11/2020 10:23:02 PM: header eob data completed20191231-EOB.txt
+5/11/2020 10:23:02 PM: parsing second draft -20191231-EOB.txt
+5/11/2020 10:23:02 PM: completed second draft -20191231-EOB.txt
+5/11/2020 10:23:02 PM: Prepare list of object for export -20191231-EOB.txt
+5/11/2020 10:23:02 PM: Export started -20191231-EOB.txt
+5/11/2020 10:23:38 PM: Export completed- 20191231-EOB.txt
+5/11/2020 10:25:39 PM: Test window service stopped
+5/11/2020 10:32:00 PM: service started
+5/11/2020 10:33:02 PM: Start Reading Text File-20191231-EOB.txt
+5/11/2020 10:33:02 PM: FirstDraft completed -20191231-EOB.txt
+5/11/2020 10:33:02 PM: reading header eob data -20191231-EOB.txt
+5/11/2020 10:33:02 PM: header eob data completed20191231-EOB.txt
+5/11/2020 10:33:02 PM: parsing second draft -20191231-EOB.txt
+5/11/2020 10:33:02 PM: completed second draft -20191231-EOB.txt
+5/11/2020 10:33:02 PM: Prepare list of object for export -20191231-EOB.txt
+5/11/2020 10:33:02 PM: Export started -20191231-EOB.txt
+5/11/2020 10:33:07 PM: Export completed- 20191231-EOB.txt
+5/11/2020 10:40:44 PM: Test window service stopped

@@ -1,0 +1,13 @@
+D:\MyProject\TestWindowService\LoggerService\obj\Debug\LoggerService.csprojAssemblyReference.cache
+D:\MyProject\TestWindowService\LoggerService\bin\Debug\LoggerService.dll.config
+D:\MyProject\TestWindowService\LoggerService\bin\Debug\LoggerService.dll
+D:\MyProject\TestWindowService\LoggerService\bin\Debug\LoggerService.pdb
+D:\MyProject\TestWindowService\LoggerService\bin\Debug\Easy.Logger.dll
+D:\MyProject\TestWindowService\LoggerService\bin\Debug\Easy.Logger.Interfaces.dll
+D:\MyProject\TestWindowService\LoggerService\bin\Debug\log4net.dll
+D:\MyProject\TestWindowService\LoggerService\bin\Debug\Easy.Logger.xml
+D:\MyProject\TestWindowService\LoggerService\bin\Debug\Easy.Logger.Interfaces.xml
+D:\MyProject\TestWindowService\LoggerService\bin\Debug\log4net.xml
+D:\MyProject\TestWindowService\LoggerService\obj\Debug\LoggerService.csproj.CopyComplete
+D:\MyProject\TestWindowService\LoggerService\obj\Debug\LoggerService.dll
+D:\MyProject\TestWindowService\LoggerService\obj\Debug\LoggerService.pdb
